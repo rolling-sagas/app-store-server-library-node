@@ -11,6 +11,7 @@
   },
   "types": "dist/index.d.ts",
   "dependencies": {
+    "@tsndr/cloudflare-worker-jwt": "^3.1.3",
     "@types/jsonwebtoken": "^9.0.5",
     "@types/jsrsasign": "^10.5.12",
     "@types/node": "^20.11.5",

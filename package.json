@@ -1,5 +1,5 @@
 {
-  "name": "@apple/app-store-server-library",
+  "name": "app-store-server-library",
   "version": "1.4.0",
   "description": "The App Store Server Library",
   "main": "dist/index.js",
@@ -7,7 +7,7 @@
   "author": "Apple Inc.",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/apple/app-store-server-library-node"
+    "url": "https://github.com/rollingsagas/app-store-server-library-node"
   },
   "types": "dist/index.d.ts",
   "dependencies": {
